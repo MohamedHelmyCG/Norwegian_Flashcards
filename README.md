@@ -12,7 +12,7 @@ Usage:
 1) Clone the repository:
    
 bash
-git clone https://github.com/your-username/norwegian-flashcards.git
+git clone https://github.com/MohamedHelmyCG/norwegian-flashcards.git
 
 3) Navigate to the project directory:
 bash
@@ -39,7 +39,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 Contact:
 
-For any questions or feedback, feel free to contact me at your-email@example.com.
+For any questions or feedback, feel free to contact me at Mohamed.abdou01@outlook.com
 
 Acknowledgements:
 
